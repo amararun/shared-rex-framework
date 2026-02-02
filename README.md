@@ -39,3 +39,8 @@ That's it. The application should now be running locally.
 5. The framework provides you with the flexibility to customize the navigation menu as per your requirements and embed your individual apps.
 
 Remove existing git file, initialize your git repository and push your changes to your remote repository.
+## Author
+
+Built by [Amar Harolikar](https://www.linkedin.com/in/amarharolikar/)
+
+Explore 30+ open source AI tools for analytics, databases & automation at [tigzig.com](https://tigzig.com)
